@@ -1,0 +1,33 @@
+body {
+  text-align:center;
+  padding:20px; 
+  font-size:18px; 
+  background-color:turquoise; 
+ 
+  
+}
+img{
+  width: 200px; 
+  border-radius:50%; 
+   
+}
+h1{
+font-size:30px; 
+}
+
+.links{
+    float:left;
+    color:black; 
+    padding-top:5px; 
+    padding-bottom: 5px; 
+    padding-right:9px; 
+    padding-left: 9px; 
+    font-family: cursive; 
+    font-size:20px; 
+    list-style: none;
+}
+ 
+
+.link:hover{
+ background-color:cyan;    
+}
